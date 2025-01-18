@@ -8,15 +8,13 @@ Manifest for my Jellyfin plugins
 
 ## Use Guide
 
-1. In jellyfin, go to dashboard -> plugins -> Repositories -> add and paste this link ```https://raw.githubusercontent.com/danieladov/JellyfinPluginManifest/master/manifest.json```
+1. In jellyfin, go to dashboard -> plugins -> Repositories -> add and paste this link ```https://raw.githubusercontent.com/johnpc/JellyfinPluginManifest/master/manifest.json```
 2. Go to Catalog and search for the plugin you want to install
 3. Click on it and install
 4. Restart Jellyfin
 
 ## Current Plugins
-1. <a href = "https://github.com/danieladov/jellyfin-plugin-mergeversions"> Merge Versions</a>
-2. <a href = "https://github.com/danieladov/jellyfin-plugin-skin-manager"> Skin Manager</a>
-3. <a href = "https://github.com/danieladov/jellyfin-plugin-themesongs"> Theme Songs</a>
+1. <a href = "https://github.com/johnpc/jellyfin-plugin-autosyncsubtitles"> Autosync Subtitles</a>
 
 
 
